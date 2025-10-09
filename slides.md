@@ -3,10 +3,16 @@
 <small>
 
 * No troubles
- * Deadlines, test review, new test development(like SysMan Module, Kea), new product setup (SP7, SLE16)
+ * Deadlines, test review, new test development, SLE16 Maintenace setup and assitance to other squads.
  * Test stability
- * Helped other squads on SLE 16 Functional testing setup
-* All during a PO switch and being more and more short staffed.
+* Workshop in June and meet with QE-Security, great team building occasion
+* Some numbers:
+ * <a href="https://progress.opensuse.org/issues?set_filter=1&sort=fixed_version%3Adesc%2Cpriority%3Adesc%2Cid%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=qe-core&f%5B%5D=closed_on&op%5Bclosed_on%5D=%3E%3C&v%5Bclosed_on%5D%5B%5D=2025-05-27&v%5Bclosed_on%5D%5B%5D=2025-10-14&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%3D&v%5Bissue_tags%5D%5B%5D=bugbusters&f%5B%5D=&c%5B%5D=subject&c%5B%5D=project&c%5B%5D=status&c%5B%5D=assigned_to&c%5B%5D=fixed_version&c%5B%5D=category&c%5B%5D=relations&c%5B%5D=priority&c%5B%5D=tags_relations&group_by=tracker&t%5B%5D=">84 Test issues resolved</a>
+ * <a href="https://progress.opensuse.org/issues?set_filter=1&sort=fixed_version%3Adesc%2Cpriority%3Adesc%2Cid%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=qe-core&f%5B%5D=closed_on&op%5Bclosed_on%5D=%3E%3D&v%5Bclosed_on%5D%5B%5D=2025-05-27&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%21&v%5Bissue_tags%5D%5B%5D=bugbusters&f%5B%5D=&c%5B%5D=subject&c%5B%5D=project&c%5B%5D=status&c%5B%5D=assigned_to&c%5B%5D=fixed_version&c%5B%5D=category&c%5B%5D=relations&c%5B%5D=priority&c%5B%5D=tags_relations&group_by=tracker&t%5B%5D=">48 sprint tickets resolved</a>
+  * <a href="https://progress.opensuse.org/issues/187113">~45 bugzilla bugs cleaned up</a> 
+* Honorable mentions:
+ * <a href="https://progress.opensuse.org/issues/182918">SLE 16 Maintenance Initial Setup</a> and related <a href="https://progress.opensuse.org/issues/187116">installation test</a>
+ * <a href="https://progress.opensuse.org/issues/187194">systemd regression test</a>
 <br>
 
 </small>
@@ -16,13 +22,14 @@
 
 <small>
 
-* Richard Fan stepping in as Deputy PO
+* Richard Fan about to go on rotation for 6 months.
+* Goran Pathak about to join on a 3 month rotation.
 
 </small>
 
 ---
 
-### Roadmap
+### Roadmap and Priorities
 
 <small>
 
@@ -31,14 +38,9 @@
  * Act swiftly on test failures to open bug or fix test
 * Keep up the pace
  * Develop new tests when needed (new packages/regressions)
- * Setup SLE 16 Maintenance
-* Reorganize how we work
- * Review and close lots of old forgotten tickets
- * Try out the new way to organize tickets (Icebox, Shortlist,Ready)
- * Workshop in June and meet with QE-Security
+ * Focus on SLE 16 Maintenance, ramp up test coverage in staging
 * Harmonize tests
  * Between products, versions, openSUSE
-* Continue talks between L3 and QE Kernel squad to provide openQA validation of PTF
 
 </small>
 
@@ -46,33 +48,22 @@
 
 ### Impediments and requirements
 
-#### Impediments to the roadmap
+#### Impediments to the roadmap and resource requirements
 
 <small>
 
-* Critically short staffed
- * Dee on parental leave 	- not covered
- * Santi left 			- not replaced
- * Felix on permanent rotation 	- not replaced
- * Volodymyr new hire moved to QAC with plan to replace 	- hiring blocked
+* Still short staffed
+ * Dee now back from parental leave
+ * Richard going on 6 month rotation
+ * Goran about to join for 3 months
+ * Zaoliang back but focusing on his own topics
 
-* This leave us with 6 people, where:
- * One is me, doing PO/SM
- * Zaoliang focus on manual testing
+* This leave us with 4 (Cedric, Dee, Jozef, Yutao) working on Core sprint topics full time + Goran for 3 months.
 
-
-
+* Does not look to bad currently work/topic wise, thanks to the amazing quality of the work done in the present and in the past by our squad, test are fairly stable and work gets done. But we should remember that we are a couple of vacation/sick leave from being in trouble.
 
 </small>
 
-
-#### Resource requirements
-
-<small>
-
-* We are doing good but I feel we are one dropout from disaster.
-
-</small>
 
 
 ---
