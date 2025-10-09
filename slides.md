@@ -42,6 +42,7 @@
 * Harmonize tests
  * Between products, versions, openSUSE
 
+* See <a href="https://confluence.suse.com/spaces/qasle/pages/1906180147/QE+Core+Areas+of+Responsibility ">QE Core Areas of Responsibility for more details.</a>
 </small>
 
 ---
