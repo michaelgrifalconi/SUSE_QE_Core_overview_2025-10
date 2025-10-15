@@ -23,7 +23,7 @@
 <small>
 
 * Richard Fan about to go on rotation for 6 months.
-* Goran Pathak about to join on a 3 month rotation.
+* Gaurav Pathak about to join on a 3 month rotation.
 
 </small>
 
@@ -41,6 +41,7 @@
  * Focus on SLE 16 Maintenance, ramp up test coverage in staging
 * Harmonize tests
  * Between products, versions, openSUSE
+* Look into openQA agnostic testing?
 
 * See <a href="https://confluence.suse.com/spaces/qasle/pages/1906180147/QE+Core+Areas+of+Responsibility ">QE Core Areas of Responsibility for more details.</a>
 </small>
