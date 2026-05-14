@@ -3,16 +3,13 @@
 <small>
 
 * No troubles
- * Deadlines, test review, new test development, SLE16 Maintenace setup and assitance to other squads.
+ * Deadlines, test review, new test development, SLE16 QU and 16.1 development.
  * Test stability
-* Workshop in June and meet with QE-Security, great team building occasion
 * Some numbers:
- * <a href="https://progress.opensuse.org/issues?set_filter=1&sort=fixed_version%3Adesc%2Cpriority%3Adesc%2Cid%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=qe-core&f%5B%5D=closed_on&op%5Bclosed_on%5D=%3E%3C&v%5Bclosed_on%5D%5B%5D=2025-05-27&v%5Bclosed_on%5D%5B%5D=2025-10-14&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%3D&v%5Bissue_tags%5D%5B%5D=bugbusters&f%5B%5D=&c%5B%5D=subject&c%5B%5D=project&c%5B%5D=status&c%5B%5D=assigned_to&c%5B%5D=fixed_version&c%5B%5D=category&c%5B%5D=relations&c%5B%5D=priority&c%5B%5D=tags_relations&group_by=tracker&t%5B%5D=">84 Test issues resolved</a>
- * <a href="https://progress.opensuse.org/issues?set_filter=1&sort=fixed_version%3Adesc%2Cpriority%3Adesc%2Cid%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=qe-core&f%5B%5D=closed_on&op%5Bclosed_on%5D=%3E%3D&v%5Bclosed_on%5D%5B%5D=2025-05-27&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%21&v%5Bissue_tags%5D%5B%5D=bugbusters&f%5B%5D=&c%5B%5D=subject&c%5B%5D=project&c%5B%5D=status&c%5B%5D=assigned_to&c%5B%5D=fixed_version&c%5B%5D=category&c%5B%5D=relations&c%5B%5D=priority&c%5B%5D=tags_relations&group_by=tracker&t%5B%5D=">48 sprint tickets resolved</a>
-  * <a href="https://progress.opensuse.org/issues/187113">~45 bugzilla bugs cleaned up</a> 
-* Honorable mentions:
- * <a href="https://progress.opensuse.org/issues/182918">SLE 16 Maintenance Initial Setup</a> and related <a href="https://progress.opensuse.org/issues/187116">installation test</a>
- * <a href="https://progress.opensuse.org/issues/187194">systemd regression test</a>
+ * <a href="https://progress.opensuse.org/issues?set_filter=1&sort=fixed_version%3Adesc%2Cpriority%3Adesc%2Cid%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=qe-core&f%5B%5D=closed_on&op%5Bclosed_on%5D=%3E%3C&v%5Bclosed_on%5D%5B%5D=2025-10-14&v%5Bclosed_on%5D%5B%5D=2026-05-19&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%3D&v%5Bissue_tags%5D%5B%5D=bugbusters&f%5B%5D=&c%5B%5D=subject&c%5B%5D=project&c%5B%5D=status&c%5B%5D=assigned_to&c%5B%5D=fixed_version&c%5B%5D=category&c%5B%5D=relations&c%5B%5D=priority&c%5B%5D=tags_relations&group_by=tracker&t%5B%5D=">90+ Test issues resolved</a>
+ * <a href="https://progress.opensuse.org/issues?set_filter=1&sort=fixed_version%3Adesc%2Cpriority%3Adesc%2Cid%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=qe-core&f%5B%5D=closed_on&op%5Bclosed_on%5D=%3E%3D&v%5Bclosed_on%5D%5B%5D=2025-10-14&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%21&v%5Bissue_tags%5D%5B%5D=bugbusters&f%5B%5D=&c%5B%5D=subject&c%5B%5D=project&c%5B%5D=status&c%5B%5D=assigned_to&c%5B%5D=fixed_version&c%5B%5D=category&c%5B%5D=relations&c%5B%5D=priority&c%5B%5D=tags_relations&group_by=tracker&t%5B%5D=">50+ sprint tickets resolved</a>
+* Honorable mention:
+ * <a href="https://progress.opensuse.org/issues/189660">Harmonize tests across versions and products</a> 
 <br>
 
 </small>
@@ -22,8 +19,7 @@
 
 <small>
 
-* Richard Fan about to go on rotation for 6 months.
-* Gaurav Pathak about to join on a 3 month rotation.
+* Dee just started rotation.
 
 </small>
 
@@ -38,9 +34,10 @@
  * Act swiftly on test failures to open bug or fix test
 * Keep up the pace
  * Develop new tests when needed (new packages/regressions)
- * Focus on SLE 16 Maintenance, ramp up test coverage in staging
 * Harmonize tests
  * Between products, versions, openSUSE
+* Workshop in Prague
+* Record of rejected updates for QE?
 * Look into openQA agnostic testing?
 
 * See <a href="https://confluence.suse.com/spaces/qasle/pages/1906180147/QE+Core+Areas+of+Responsibility ">QE Core Areas of Responsibility for more details.</a>
@@ -54,15 +51,12 @@
 
 <small>
 
-* Still short staffed
- * Dee now back from parental leave
- * Richard going on 6 month rotation
- * Goran about to join for 3 months
- * Zaoliang back but focusing on his own topics
+* Still short staffed? Well, we have our delicate balance.
+ * Dee now on rotation
+ * Cedric, Jozef, Richard(Deputy PO), Yutao
+ * Me as PO
 
-* This leave us with 4 (Cedric, Dee, Jozef, Yutao) working on Core sprint topics full time + Goran for 3 months.
-
-* Does not look to bad currently work/topic wise, thanks to the amazing quality of the work done in the present and in the past by our squad, test are fairly stable and work gets done. But we should remember that we are a couple of vacation/sick leave from being in trouble.
+* Does not look too bad currently work/topic wise, thanks to the great quality of the work done in the present and in the past, test are fairly stable and work gets done.
 
 </small>
 
