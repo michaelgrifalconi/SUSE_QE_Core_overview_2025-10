@@ -34,6 +34,7 @@
  * Act swiftly on test failures to open bug or fix test
 * Keep up the pace
  * Develop new tests when needed (new packages/regressions)
+* rpm-based, dynamic job scheduling in openQA
 * Harmonize tests
  * Between products, versions, openSUSE
 * Workshop in Prague
